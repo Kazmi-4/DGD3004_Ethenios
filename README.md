@@ -27,4 +27,31 @@ In the world of Ethenios, the player must traverse dangerous environments to col
 ## 🕹 Core Mechanics
 * **Precision Platforming:** Physics-based movement including variable jump heights and air control.
 * **Sentinel Patrols:** Enemies follow complex AI patrol paths using a modular `PatrolPath` system.
-* **Instant Rev
+* **Instant Revive System:** Custom simulation events that handle the global reset of all scene objects (Enemies, Tokens, and Player) upon death.
+* **Animator Override System:** Technical implementation of `AnimatorOverrideControllers` to allow diverse enemy visuals while maintaining optimized, shared logic.
+* **Directional Orientation:** Sprite-flipping logic that reacts to movement velocity.
+
+---
+
+## ⌨ Controls
+| Action | Input |
+| :--- | :--- |
+| **Move Left / Right** | `A` / `D` or `Left` / `Right Arrow` |
+| **Jump** | `Spacebar` |
+| **Stomp Attack** | `Jump on Enemy` |
+
+---
+
+## 🚀 Technical Implementation Details
+This project utilizes a **Simulation Event System** to decouple gameplay logic from physics. Key scripts include:
+* `EnemyController.cs`: Handles AI movement, orientation, and the `ResetEnemy()` state.
+* `PlayerDeath.cs`: Manages the global reset sequence and object pooling/reactivation.
+* `EnemyDeath.cs`: Triggers frame-perfect animation states to ensure responsive combat feedback.
+
+---
+
+## 🎯 Target Audience
+Designed for enthusiasts of precision platformers (like *Celeste* or *Hollow Knight*) who enjoy atmospheric world-building and challenging "learn-by-dying" gameplay loops.
+
+---
+© 2025 Ethenios Development Team
