@@ -53,6 +53,8 @@ Accessible anytime via `Esc`, giving you control over the simulation.
 * **Mute Toggle:** Instantly silence sound effects.
 * **Navigation:** Resume or Quit to Desktop.
 
+<img width="507" height="395" alt="image" src="https://github.com/user-attachments/assets/ce7b01c7-79bf-45ef-8e43-302a25d35243" />
+
 ---
 
 ## 🗺️ Worlds & Levels
