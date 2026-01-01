@@ -79,8 +79,8 @@ Accessible anytime via `Esc`, giving you control over the simulation.
 
 | Member | Role | Contribution |
 | :--- | :--- | :--- |
-| **Qasim Kazmi** | Lead Developer | Level Design (Whispering Wilds), Core Physics, Enemy AI. |
-| **Mustafa Ozan Uslu** | Technical Designer | Level Design (Midnight Thicket), Lighting/Atmosphere, UI Systems. |
+| **Qasim Kazmi** | Lead Developer | Level Design (Whispering Wilds), Core Physics, Enemy AI, Lighting/Atmosphere, UI Systems. |
+| **Mustafa Ozan Uslu** | Technical Designer | Level Design (Midnight Thicket) |
 
 ---
 © 2025 Ethenios Development Team
