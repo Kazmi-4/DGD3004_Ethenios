@@ -1,4 +1,6 @@
-# 🌌 Ethenios: The Lost Rift
+
+
+# 🌌 DGD | Ethenios: The Lost Rift
 
 **Ethenios** is a high-stakes 2D Action-Adventure platformer. Navigate through atmospheric landscapes, master precision movement, and overcome the rocky sentinels of a world that resets its challenges the moment you fall.
 
