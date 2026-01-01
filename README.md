@@ -19,6 +19,15 @@ The world itself rejects your presence. To escape, you must traverse the Whisper
 * **Engine:** Unity 2022.3+ (Universal Render Pipeline)
 * **Visual Style:** Atmospheric Pixel Art with Dynamic Particle Systems
 
+## 🏗️ Game Design Architecture
+
+The following diagram illustrates the **Systems Architecture** of Ethenios. It visualizes how the narrative context wraps around the core gameplay loop and highlights the project's unique technical foundation: a custom **Simulation Event System**.
+
+### System Breakdown
+* **The Simulation Layer:** Unlike standard Unity scenes that reload on death, Ethenios uses a deterministic `Simulation Controller` and `HeapQueue`. This allows for an **Instant Reset Event**, rewinding enemies and tokens to their exact start states without loading screens.
+* **The Core Loop:** The `GameController` manages the frame-by-frame interactions between the Player (using custom `KinematicObject` physics) and the Stone Legion enemies (driven by modular `PatrolPath` logic).
+* **Feedback Systems:** Player actions immediately feed into the **Economy System**, updating the HUD and UI Controllers to track the collection of Aether Shards in real-time.
+
 ---
 
 ## 🌟 Key Features
