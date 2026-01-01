@@ -28,6 +28,9 @@ The following diagram illustrates the **Systems Architecture** of Ethenios. It v
 * **The Core Loop:** The `GameController` manages the frame-by-frame interactions between the Player (using custom `KinematicObject` physics) and the Stone Legion enemies (driven by modular `PatrolPath` logic).
 * **Feedback Systems:** Player actions immediately feed into the **Economy System**, updating the HUD and UI Controllers to track the collection of Aether Shards in real-time.
 
+<img width="7828" height="9327" alt="Mermaid Chart - Create complex, visual diagrams with text -2026-01-01-192444" src="https://github.com/user-attachments/assets/760d94a4-6367-4d9a-9db9-a817109536df" />
+
+
 ---
 
 ## 🌟 Key Features
