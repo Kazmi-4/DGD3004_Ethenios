@@ -77,7 +77,10 @@ Accessible anytime via `Esc`, giving you control over the simulation.
 | Level | Environment | Design Focus |
 | :--- | :--- | :--- |
 | **Whispering Wilds** | **Daylight Forest** | A vibrant introductory zone. Focuses on horizontal flow, introducing the **Moss-Crag Sentinels** and basic platforming over Kinetic Platforms. |
+<img width="3206" height="776" alt="level1" src="https://github.com/user-attachments/assets/0888230f-281b-47be-99c6-1177f6306c8f" />
+
 | **Midnight Thicket** | **Nocturnal Danger** | A dark, oppressive expansion. Visibility is reduced by heavy rain. Introduces **Spore-Wardens** and complex vertical climbs. |
+<img width="3698" height="1015" alt="level 2" src="https://github.com/user-attachments/assets/a8106908-e7fb-4139-b17a-3378d56ebbf4" />
 
 ---
 
@@ -101,3 +104,10 @@ Accessible anytime via `Esc`, giving you control over the simulation.
 
 ---
 © 2025 Ethenios Development Team
+
+
+## 📦 ASSETS SPRITES
+![assests](https://github.com/user-attachments/assets/392e6cee-e4da-4418-a662-421f2a61f4b2)
+
+![animations gif (1)](https://github.com/user-attachments/assets/633221ce-1621-4411-8410-f9c763bfb511)
+
