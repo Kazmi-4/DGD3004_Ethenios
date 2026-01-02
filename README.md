@@ -109,5 +109,5 @@ Accessible anytime via `Esc`, giving you control over the simulation.
 ## 📦 ASSETS SPRITES
 ![assests](https://github.com/user-attachments/assets/392e6cee-e4da-4418-a662-421f2a61f4b2)
 
-![animations gif (1)](https://github.com/user-attachments/assets/633221ce-1621-4411-8410-f9c763bfb511)
+![assets_2](https://github.com/user-attachments/assets/633221ce-1621-4411-8410-f9c763bfb511)
 
